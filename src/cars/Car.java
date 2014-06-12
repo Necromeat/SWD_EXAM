@@ -53,7 +53,8 @@ public class Car implements interfaces.CarInterface{
     public String toString() {
         return "Car{" + "amountofdoors=" + amountofdoors + ", fueltanksize=" + fueltanksize + ", hp=" + hp + ", type=" + type + '}';
     }
-    
+
+   
     
     
 }
